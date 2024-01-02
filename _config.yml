@@ -25,7 +25,7 @@ author:
 
 description: >- # this means to ignore newlines until "baseurl:"
   The year is 2023. The US economy is experiencing the highest levels of inflation since the early 1980's due to its massive money printing of the COVID-19 Pandemic.
-  Big Tech is doing it's part to increase unemployment with layoffs and I am impacted. After a 3 month sebatical, my focus is understanding Generative AI systems 
+  Big Tech is doing its part to increase unemployment with layoffs and I am impacted. After a 3 month sebatical, my focus is understanding Generative AI systems 
   and developing a reference architecture and use case. This is my journey.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.khorner.com" # the base hostname & protocol for your site, e.g. http://example.com
