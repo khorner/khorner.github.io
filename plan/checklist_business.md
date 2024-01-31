@@ -4,8 +4,11 @@ title: Business Plan Checklist
 
 ---
 
- - [x] #1
- - [x] Form LLC
+ - [x] Study for, register, and pass Series 65 Exam
+ - [x] Form LLC (Off-Zero Financial, LLC.)
  - [x] Set up Business banking
  - [x] Submit ADV for SEC review
- - [ ] Resolve ADV deficiencies
+ - [x] Resolve ADV deficiencies
+ - [ ] MVP offzerofinancial.com
+ - [ ] MVP myfi.coach
+ - [ ] update ADV Part 2 with Interenet Exemption (due: Friday, May 24, 2024)

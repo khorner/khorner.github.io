@@ -4,7 +4,7 @@ title: Technology Plan Checklist
 
 ---
 
-- [x]  [Research and Understand Generative AI:](research.md) Gain knowledge about Generative AI to comprehend its capabilities and applications in financial insights.
+- [ ]  [Research and Understand Generative AI:](research.md) Gain knowledge about Generative AI to comprehend its capabilities and applications in financial insights.
 - [ ]  [Define Objectives](objectives.md) Clearly outline the goals and objectives of creating a system that leverages Generative AI for investment insights.
 - [ ]  [Technology Selection](technology.md) Choose appropriate Generative AI tools or frameworks that align with the project's requirements and objectives.
 - [ ]  [Data Collection](data.md) Gather relevant data sources necessary for training the Generative AI model, focusing on financial and investment data.
