@@ -14,15 +14,15 @@ I have 120 days to implement an interactive website that provides investment adv
 ## Plan updates
 To bring [The Plan](/plan.md) into reality, I've broken it up into 3 parts: 
 1. Off-Zero Financial, LLC.
-1. offzero.io
 1. MyFi.Coach
+1. offzero.io
 
 ### Off-Zero Financial, LLC. 
-The legal entity to be registered as an Investment Advisor with the SEC under the Internet Investment Advisor exemption. This allows it to provide fiduciary investment advice via an interactive website.
+The Texas LLC formed to be registered as an Investment Advisor with the SEC under the Internet Investment Advisor exemption. This allows it to provide fiduciary investment advice to all US residents via an interactive website and removes the administrative burden to regiser with all 50 states to do so.
 
 ### MyFi.Coach
-The interactive website Off-Zero Financial, LLC. provides to comply with SEC registration as an Internet Investment Advisor.
+The interactive website Off-Zero Financial, LLC. provides clients to comply with the Internet Investment Advisors exemption for SEC registration under the Investment Advisors Act of 1940.
 
 ### offzero.io
-The technology company (not yet legally formed) Off-Zero Financial, LLC. uses for MyFi.Coach.
+The technology company (not yet legally formed) Off-Zero Financial, LLC. uses to implement MyFi.Coach.
 
