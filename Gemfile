@@ -34,3 +34,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # bundler
 gem "webrick"
+gem "rexml", ">= 3.3.2"
+gem "nokogiri", ">= 1.16.5"
