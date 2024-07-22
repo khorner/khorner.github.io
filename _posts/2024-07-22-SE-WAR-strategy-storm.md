@@ -5,6 +5,8 @@ date: 2024-07-22
 categories: AI strategy sales
 ---
 
+> Inspired by Ehan Mollick's Substack post: [Confronting Impossible Futures](https://open.substack.com/pub/oneusefulthing/p/confronting-impossible-futures)
+
 In the rapidly evolving world of AI, strategizing for future scenarios is crucial, especially when managing and staffing a team of Sales Engineers (SEs) in enterprise software sales. Inspired by the concept of Wins Above Replacement (WAR) from baseball, we explore how AI, as the replacement player, can impact our strategy across four potential AI futures.
 
 ### Key STEEP Forces to Consider
