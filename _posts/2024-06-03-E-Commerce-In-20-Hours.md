@@ -2,7 +2,7 @@
 layout: post
 title: "E-commerce, KPIs, and Technologies Curriculum (Shopify-focused)"
 date: 2024-06-06
-categories: curriculum
+categories: [curriculum, shopify]
 ---
 
 ## E-commerce, KPIs, and Technologies Curriculum (Shopify-focused)
