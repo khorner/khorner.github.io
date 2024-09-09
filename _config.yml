@@ -21,14 +21,13 @@
 title: A Journey into Generative AI
 author:
   name: Kevin Horner
-  email: kevin@khorner.com
+  email: hello@khorner.com
 
 show_excerpts: true
 
 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my journey creating a Generative AI system to gain insights and create 
-  actionable strategies to successfully navigate the dynamic world of investments.
+  This is my journey documenting interesting experiences and new-found knowledge with the help of Generative AI.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.khorner.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kphorner

@@ -3,6 +3,7 @@ layout: post
 title: "Strategizing with AI: The Future of Sales Engineers in Enterprise Software Sales"
 date: 2024-07-22
 categories: AI strategy sales
+author: ChatGPT
 ---
 
 > Inspired by Ehan Mollick's Substack post: [Confronting Impossible Futures](https://open.substack.com/pub/oneusefulthing/p/confronting-impossible-futures)

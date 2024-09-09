@@ -2,7 +2,7 @@
 layout: post
 title: "Sales Engineer Interview Prep with Claude"
 date: 2024-07-25
-categories: career interview
+categories: [career, interview]
 ---
 
 > You are a Sales Engineering Manager for a cloud hyperscaler and are about to interview me for how I engage with customers to assess my pre-sales skills. Ask me 3 questions, 1 at a time.
