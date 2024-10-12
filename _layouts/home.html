@@ -24,6 +24,7 @@ layout: base
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
+      {%- if post.visible != false -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -34,7 +35,10 @@ layout: base
         {%- if site.show_excerpts -%}
           {{ post.content | markdownify | strip_html | truncatewords: 25 }}
         {%- endif -%}
+        <h5>Categories: {{ post.categories | escape }}</h5>
+        <h5>Visible: {{ post.visible | escape }}</h5>
       </li>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
 

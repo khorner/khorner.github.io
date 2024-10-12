@@ -1,7 +1,7 @@
 ---
 title: Comparing AI Text Generation with ChatGPT, Gemini, and Claude
 date: 2024-06-24
-categories: [AI, Technology, Content Creation]
+categories: [AI Head-to-Head, Technology, Content Creation]
 ---
 
 Artificial Intelligence has revolutionized the way we create content, offering diverse capabilities to generate human-like text. Today, I compare the output of three leading AI models—ChatGPT, Gemini, and Claude—by asking them to write a brief LinkedIn recommendation for a former colleague. Here’s the original prompt and follow ups:
