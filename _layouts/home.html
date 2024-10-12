@@ -36,7 +36,6 @@ layout: base
           {{ post.content | markdownify | strip_html | truncatewords: 25 }}
         {%- endif -%}
         <h5>Categories: {{ post.categories | escape }}</h5>
-        <h5>Visible: {{ post.visible | escape }}</h5>
       </li>
       {%- endif -%}
       {%- endfor -%}
